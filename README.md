@@ -1,4 +1,4 @@
-# ds-project-blogpost
+# Write a Data Science Blogpost
 
 This is the accompanying GitHub-repository for the first project "Write a Data Science Blogpost" in the Nanodegree Data Scientist at Udacity. 
 
