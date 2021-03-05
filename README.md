@@ -10,12 +10,12 @@ Tasks:
 - evaluate results
 - share insights with stakeholders
 
-# Libraries
+## Libraries
 
-# Motivation for the project
+## Motivation for the project
 
-# Short description of files in the repository
+## Short description of files in the repository
 
-# Summary of the results of the analysis
+## Summary of the results of the analysis
 
-# Acknowledgements
+## Acknowledgements
